@@ -1,3 +1,12 @@
+copy of --
+
+https://github.com/PoloOnTheGo/Macaque_auditory_thalamocortical_model_data/
+which is the A1 Macaque Auditory TC model + extensive revisions to replicate EEG studies
+
+due to issues with file tracking.
+
+
+
 # Macaque auditory thalamocortical circuits model
 ## Description
 Multiscale model of the macaque auditory thalamocortical circuits developed using NetPyNE (www.netpyne.org).
